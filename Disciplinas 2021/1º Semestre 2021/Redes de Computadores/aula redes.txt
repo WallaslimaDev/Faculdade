@@ -1,0 +1,35 @@
+>As 3 camadas inferiores (Física / Enlace / Rede):
+Permitem a interconexão de sistemas ou de equipamentos individuais, estando relacionados a aspectos de transmissão.
+A camada de Transporte provê a  comunicação fim-a-fim entre processos individuais.
+As 3  Superiores ( Seção / Apresentação / Aplicação):
+Prestam serviços relacionados à natureza da aplicação.
+ 
+> Sua estrutura funciona em sete camadas, cada uma delas trabalha separadamente, mas todos necessitam de uma da outra:
+7 Aplicação
+6 Apresentação
+5 Sessão
+4 Transporte
+3 Rede
+2 Enlace
+1 Física
+
+PACOTE DE REDE...:
+ 
+É o que trafega agora na sua máquina ou host.
+ 
+PACOTE DE REDE TEM:
+ 
+> CABEÇALHO     -> REGISTROS DO CAMINHO...
+> DADOS         -> DADO...
+ 
+PACOTE = DADOS QUE EU NÃO SEI...
+DATAGRAMA = INFO DO PACOTE. Aqui vemos as regras (protocolos de rede)
+
+
+
+Vídeo "O que é o TCP/IP?"
+https://www.youtube.com/watch?v=PpsEaqJV_A0
+
+
+Explique o funcionamento de todas as camadas do modelo OSI e suas principais características.
+Apontar e especificar as principais diferenças entre o Modelo OSI e o Protocolo TCP/IP.
