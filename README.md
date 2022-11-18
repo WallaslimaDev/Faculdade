@@ -1,4 +1,5 @@
 # Repositório criado para utilização na Faculdade
+## Curso: SISTEMAS DE INFORMAÇÃO
 
 DISCIPLINAS 1º PERÍODO:
 - INTRODUÇÃO À PROGRAMAÇÃO ESTRUTURADA EM C
