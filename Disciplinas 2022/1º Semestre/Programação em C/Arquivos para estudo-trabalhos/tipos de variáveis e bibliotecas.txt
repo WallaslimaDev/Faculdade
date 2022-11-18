@@ -1,0 +1,28 @@
+Em C, os tipos de variáveis são:
+
+char: armazena letras e símbolos;
+
+int: armazena números inteiros de -32767 a 32767;
+
+float: armazena números entre -3.4 x1038 e 3.4 x 1038 com até 6 dígitos;
+
+double: armazena números entre -1.7 x 10308 até +1.7 x 10308 com até 10 dígitos.
+
+
+
+
+todo programa escrito em C é iniciado com a inclusão das bibliotecas, feita pelo comando “#include”. 
+
+
+As principais bibliotecas dessa linguagem são:
+
+stdio.h: contém funções de entrada e saída padrão, como printf;
+
+math.h: contém funções matemáticas, como cos e log;
+
+stdlib.h: contém funções da biblioteca padrão, como exit, abort e sleep.
+
+A inclusão de uma biblioteca é feita dessa forma:
+#include<stdio.h>
+
+

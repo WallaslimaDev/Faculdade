@@ -1,0 +1,23 @@
+Ler para mais conteúdo sobre arquivos maliciosos!
+ https://cartilha.cert.br/malware/
+
+
+https://www.youtube.com/watch?v=xzqSQAZmvEs
+ É um exemplo de exploração de macro.
+
+
+https://www.freeoffice.com/pt/
+Recomandado: https://pt-br.libreoffice.org/
+
+
+Dica de estudo? Conhecer o CONFICKER! 
+
+
+[1] Conteúdo Digital associado à disciplina, Tema "Ameaças e Vulnerabilidades à Segurança da informação", Módulo 1 "Conceitos e os tipos de ameaças e vulnerabilidades de segurança da informação".
+
+ [2] Vídeo: 'Jornal Nacional -Internet tem a maior ação de hackers da História'.Disponível em: (https://www.youtube.com/watch?v=9MfTLSuZBAI)
+
+Leitura dos itens: 12.4. Proteção contra malware, phishing e spam e 12.5 Algumas definições do livro: Fundamentos de Segurança da Informação: com base na ISO 27001 e na ISO 27002, conforme bibliografia adotada.Disponível em: (https://plataforma.bvirtual.com.br/Acervo/Publicacao/160044)-Leitura da Cartilha de Segurança para Internet do Cert.br -Capítulo 4 -Códigos maliciosos (Malware). Disponível em: (https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf) -Quais vírus de computador causaram mais danos ao redor do mundo? Disponível em: (https://www.whoishostingthis.com/blog/2015/06/01/8-worst-viruses/)
+
+
+W@ll1234
