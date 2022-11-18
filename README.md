@@ -1,4 +1,4 @@
-# Repositório criado para utilização na faculdade
+# Repositório criado para utilização na Faculdade
 
 DISCIPLINAS 1º PERÍODO:
 - INTRODUÇÃO À PROGRAMAÇÃO ESTRUTURADA EM C
