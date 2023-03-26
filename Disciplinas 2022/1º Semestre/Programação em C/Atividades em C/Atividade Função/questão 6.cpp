@@ -27,10 +27,10 @@ int main ()
 	printf("Digite o Minuto: ");
 	scanf("%f", &M);
 	
-	printf("Dgite o segundo: ");
+	printf("Digite o segundo: ");
 	scanf("%f", &S);
 	
 	printf("\nApos convertido: %f segundos",segundos(H,M,S));
 	
-	system("pause");
+	
 }

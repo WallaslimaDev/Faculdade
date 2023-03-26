@@ -52,12 +52,13 @@ while 1:
     list = int(input("-Selecione uma lista(1,2 ou 3), ou digite 0 para finalizar:"))
     if list == 0:
         """Se digitar 0(deseja encerrar), o programa solitica a confirmação da ação"""
-        n=int(input("Deseja realmente encerrar? Digite 1 pra SIM:"))
+        n=int(input("Deseja realmente encerrar? Digite 1 pra SIM ou 2 para NÃO:"))
         if n ==1:
             """Executa o fim do código"""
             os.system('cls' if os.name == 'nt' else 'clear')
             print("Programa Encerrado!")
             break
+        
     elif list == 1:
         """Escolhida a lista 1, o programa irá perguntar qual exercício o usuário deseja executar"""
         exercicio = int(input("Escolha um exercício(1 ou 2): "))
@@ -67,8 +68,7 @@ while 1:
             n = fundamentos_py_1()
             """Imprimindo a variavel que recebeu o resultado"""
             print (n)
-            continue
-
+            
         elif exercicio == 2:
             """Executa o que se pede no Exercício 2"""
             n1 = int(input("Digite um numero:"))
