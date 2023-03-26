@@ -1,4 +1,4 @@
-# Repositório criado para utilização na Faculdade
+# Repositório criado para utilização acadêmica
 ## Curso: SISTEMAS DE INFORMAÇÃO
  Aluno: Wallas Vieira Lima
 
